@@ -1,0 +1,13 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    /* background-image: url("https://clickwallpapers.net/wp-content/uploads/2022/06/clickwallpapers-pokemon-4k-img2-scaled-1.jpg"); */
+    background-image: url("https://images7.alphacoders.com/592/592678.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.links a{
+    color: #fff;
+    font-size: 1.2rem;
+}
